@@ -1,0 +1,24 @@
+[0607/092944.378:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 67
+[0607/093140.337:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 145
+[0607/093340.796:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0607/093340.797:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0607/093341.455:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0607/093341.455:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0615/122124.833:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0615/122124.834:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0615/122124.834:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0615/122124.835:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0615/122124.993:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 109
+[0615/122129.674:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0615/122129.675:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0615/122129.676:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0615/122129.676:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0615/133703.390:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0616/111648.003:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 205
+[0616/123151.436:ERROR:gles2_cmd_decoder_passthrough.cc(2884)] Context lost because PostSubBuffer failed.
+[0616/133920.894:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0616/133920.895:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0616/133920.896:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0616/133920.896:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0616/133920.920:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 49
+[0616/133920.920:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 51
